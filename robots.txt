@@ -1,0 +1,17 @@
+# jacobdrew — all crawlers welcome, including AI assistants
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://jacobdrew.co.uk/sitemap.xml
